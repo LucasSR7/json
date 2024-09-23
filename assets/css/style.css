@@ -1,0 +1,29 @@
+form{
+    outline: !important none;
+    margin-top: 5rem;
+}
+
+form h3{
+    margin-bottom: 1.5rem;
+}
+
+form select, .btn{
+    height: 42px;
+}
+
+form option{
+    text-transform: uppercase;
+}
+
+form .btn{
+    margin-top: 1.5rem;
+}
+
+input:focus{
+    outline: !important none;
+}
+
+#containerForm{
+    width: 500px;
+    margin: 0 auto;
+}
